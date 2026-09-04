@@ -7,7 +7,7 @@ about:
   head: c388692
   archived: false
   latestVersion: v0.1.6
-  collectedAt: 2026-09-04T19:27:01Z
+  collectedAt: 2026-09-04T21:06:08Z
 timeline:
   created: 2025-05-31
   lastCommit: 2026-02-20
@@ -80,5 +80,28 @@ total:
   openIssue: 1
   commit: 43
 ---
+path: /home/runner/.x-repo/github.com/ashish0kumar/typtea
+collectedAt: 2026-09-04T21:06:08Z
+loc:
+  Json:
+    code: 4505
+    comments: 0
+    blanks: 0
+    files: 36
+  Go:
+    code: 733
+    comments: 105
+    blanks: 163
+    files: 10
+  Markdown:
+    code: 0
+    comments: 106
+    blanks: 56
+    files: 1
+total:
+  code: 5265
+  comments: 217
+  blanks: 224
+  files: 47
 ---
 
