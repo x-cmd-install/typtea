@@ -23,7 +23,18 @@ x install typtea
 - **Latest**: `v0.1.6` (2025-08-13)
 - **Last commit**: 2026-02-20
 - **Assets in release**: 7
-- **Published**: 2025-08-13T09:14:38Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.txt](https://github.com/ashish0kumar/typtea/releases/download/v0.1.6/checksums.txt) | 555 B | `other` |
+| [typtea_darwin_arm64.tar.gz](https://github.com/ashish0kumar/typtea/releases/download/v0.1.6/typtea_darwin_arm64.tar.gz) | 1.4 MiB | `native/darwin/arm64` |
+| [typtea_darwin_x86_64.tar.gz](https://github.com/ashish0kumar/typtea/releases/download/v0.1.6/typtea_darwin_x86_64.tar.gz) | 1.5 MiB | `native/darwin/x64` |
+| [typtea_linux_arm64.tar.gz](https://github.com/ashish0kumar/typtea/releases/download/v0.1.6/typtea_linux_arm64.tar.gz) | 1.4 MiB | `native/linux/arm64` |
+| [typtea_linux_x86_64.tar.gz](https://github.com/ashish0kumar/typtea/releases/download/v0.1.6/typtea_linux_x86_64.tar.gz) | 1.5 MiB | `native/linux/x64` |
+| [typtea_windows_arm64.zip](https://github.com/ashish0kumar/typtea/releases/download/v0.1.6/typtea_windows_arm64.zip) | 1.4 MiB | `native/win/arm64` |
+| [typtea_windows_x86_64.zip](https://github.com/ashish0kumar/typtea/releases/download/v0.1.6/typtea_windows_x86_64.zip) | 1.5 MiB | `native/win/x64` |
 
 ## Popularity
 
@@ -56,8 +67,8 @@ Total: **5,238** lines of code across **47** files in the top 5 languages.
 Install metadata for typtea lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `typtea` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/typtea.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/typtea.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:46:52Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:30:57Z._
