@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1520883,
       "digest": "sha256:1745ae73ea9d3e92c27a1dead4c526ddbafca41817d2b3f0da1cb8cf3f3e0859",
-      "download_count": 215,
+      "download_count": 217,
       "created_at": "2025-08-13T09:14:37Z",
       "updated_at": "2025-08-13T09:14:37Z",
       "browser_download_url": "https://github.com/ashish0kumar/typtea/releases/download/v0.1.6/typtea_linux_x86_64.tar.gz"
